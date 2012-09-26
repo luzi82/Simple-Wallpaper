@@ -51,8 +51,8 @@
 				<Preference android:key="preference_info_about_share"
 					android:title="@string/preference_info_about_share_title">
 					<intent android:action="android.intent.action.MAIN"
-						android:targetPackage="com.luzi82.randomwallpaper"
-						android:targetClass="com.luzi82.randomwallpaper.QRCode" />
+						android:targetPackage="com.luzi82.simplewallpaper"
+						android:targetClass="com.luzi82.simplewallpaper.QRCode" />
 				</Preference>
 			</PreferenceCategory>
 
